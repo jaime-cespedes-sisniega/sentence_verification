@@ -8,15 +8,13 @@ Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a 
 
 <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/train_val_phase.png">
 
- <div class="row">
-  <div class="column">
-    <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/val_pr_curve.png" width="430" height="350">
-  </div>
-  <div class="column">
-    <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/test_pr_curve.png" width="430" height="350">
-  </div>
-</div> 
+<p align="center">
+  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/val_pr_curve.png" width="470" height="350">
+</p>
 
+<p align="center">
+  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/test_pr_curve.png" width="470" height="350">
+</p>
 
 <p align="center">
   <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/confusion_matrix.png" width="470" height="350">
