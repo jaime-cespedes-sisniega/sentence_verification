@@ -6,18 +6,18 @@ NOTE: In the notebook there is a more detailed explanation of each step taken al
 
 Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a promising multilingual language model that has been pretrained on one hundred languages. During the training phase are used techniques such as AdamW [2] and OneCycleLR [3] to provide a way to reach results as fast as possible.
 
-<img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/train_val_phase.png">
+<img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/img/train_val_phase.png">
 
 <p align="center">
-  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/val_pr_curve.png" width="600" height="400">
+  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/img/val_pr_curve.png" width="600" height="400">
 </p>
 
 <p align="center">
-  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/test_pr_curve.png" width="600" height="400">
+  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/img/test_pr_curve.png" width="600" height="400">
 </p>
 
 <p align="center">
-  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/confusion_matrix.png" width="470" height="350">
+  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/img/confusion_matrix.png" width="470" height="350">
 </p>
 
 | Model | Precision | Recall | Average precision | F1-score |
