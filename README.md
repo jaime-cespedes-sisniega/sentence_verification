@@ -17,6 +17,7 @@ Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a 
   </div>
 </div> 
 
+
 <p align="center">
   <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/confusion_matrix.png" width="470" height="350">
 </p>
