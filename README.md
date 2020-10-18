@@ -13,7 +13,7 @@ Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a 
     <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/val_pr_curve.png" width="440" height="350">
   </div>
   <div class="column">
-    <img align="right" src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/test_pr_curve.png" width="440" height="350">
+    <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/test_pr_curve.png" width="440" height="350">
   </div>
 </div> 
 
