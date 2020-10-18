@@ -4,13 +4,13 @@ Below are the results obtained for the sentence verification problem.
 
 NOTE: In the notebook there is a more detailed explanation of each step taken along the process and the final conclusions.
 
-Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a promising multilingual language model that has been pretrained on one hundred languages and is based on the BERT arquitecture. During the training phase are used techniques such as AdamW [2] and OneCycleLR [3] to provide a way to reach results as fast as possible.
+Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a promising multilingual language model that has been pretrained on one hundred languages. During the training phase are used techniques such as AdamW [2] and OneCycleLR [3] to provide a way to reach results as fast as possible.
 
 <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/train_val_phase.png">
 
  <div class="row">
   <div class="column">
-    <img align="left" src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/val_pr_curve.png" width="450" height="350">
+    <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/val_pr_curve.png" width="460" height="350">
   </div>
   <div class="column">
     <img align="right" src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/test_pr_curve.png" width="450" height="350">
