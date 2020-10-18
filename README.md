@@ -26,7 +26,7 @@ Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a 
 | XLM-RoBERTa [1] (base) | 0.3824  | 0.6075 | 0.4797 | 0.4693|
 
 
-**References**
+## References
 
 [1] Conneau, Alexis, et al. "Unsupervised cross-lingual representation learning at scale." arXiv preprint arXiv:1911.02116 (2019).
 
