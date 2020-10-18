@@ -18,7 +18,7 @@ Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a 
 </div> 
 
 <p align="center">
-  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/confusion_matrix.png" width="470" height="350" class="center">
+  <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/confusion_matrix.png" width="470" height="350">
 </p>
 
 | Model | Precision | Recall | Average precision | F1-score |
