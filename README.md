@@ -4,7 +4,7 @@ Below are the results obtained for the sentence verification problem.
 
 NOTE: In the notebook there is a more detailed explanation of each step taken along the process and the final conclusions.
 
-Within the types of BERT architectures, XLM-RoBERTa [1] is selected, which is a promising multilingual language model that has been pretrained on one hundred languages. During the training phase techniques such as AdamW [2] and OneCycleLR [3] are used to provide a way to reach results as fast as possible.
+Within the types of BERT architectures, XLM-RoBERTa [1] is selected, since is a promising multilingual language model that has been pretrained on one hundred languages. During the training phase techniques such as AdamW [2] and OneCycleLR [3] are used to provide a way to reach results as fast as possible.
 
 <img src="https://github.com/jaime-cespedes-sisniega/sentence_verification/blob/main/img/train_val_phase.png">
 
